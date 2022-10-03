@@ -1,3 +1,37 @@
-*{
-    background-color: red;
+body{
+    background-image: url("eight.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
 }
+.container{
+    text-align: left;
+    margin-top: 70px;
+    margin-left: 40px;
+}
+h1{
+    font-size: 5em;
+}
+p{
+    text-align: left;
+    font-size: 3em;
+    color: rgb(202, 42, 24);
+}
+
+.excel{
+    float: centre;
+}
+.first{
+    display: block;
+    text-align: center;
+    
+    
+  }
+ 
+.exit{
+    display: block;
+    text-align: center;
+  
+    
+  }
+ 
