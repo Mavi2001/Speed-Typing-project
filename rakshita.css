@@ -9,43 +9,27 @@ body{
     /* background-image: url("img000.webp"); */
     background-repeat: no-repeat;
     background-size: cover;
+    /* background-color: bisque; */
     /* opacity: 0.5; */
 }
-/* .container{
-    text-align: left;
-    margin-top: 70px;
-    margin-left: 40px;
-} */
-/* h1{
-    font-size: 5em;
-} */
-/* p{
-    text-align: left;
-    font-size: 3em;
-    color: rgb(202, 42, 24);
-} */
 
-/* .excel{
-    float: centre;
+#header{
+    /* background-color: rgb(170, 235, 145); */
 }
-.first{
-    display: block;
-    text-align: center;
-    
-    
-  }
- 
-.exit{
-    display: block;
-    text-align: center;
-  
-    
-  } */
+#ff{
+    color: black;
+}
+
+
+
+
+
+
 
 
 .top-heading{
     font-size: larger;
-    color: brown;
+    color: black;
     font-weight: 700;
 }
 .navlist{
@@ -55,19 +39,28 @@ body{
     padding-left: 30px;
 }
 .navitems{
+    color: black;
     font-size: 18px;
     font-weight: 700;
 }
 .navitems:hover{
-    color: rgb(20, 76, 231);
+    color: rgb(47, 14, 236);
 }
 #h1{
-    color: rgb(20, 76, 231);
+    color: black;
 
+}
+#text{
+    color: black;
 }
 #first{
     padding-top: 50px;
     font-weight: 700;
+    /* background-color: rgb(119, 218, 95); */
+}
+#services{
+    margin-top: -100px;
+    /* background-color: rgb(119, 218, 95); */
 
 }
 #sign{
@@ -82,4 +75,16 @@ body{
 }
 .classic{
     margin-top: -60px;
+}
+.team{
+    margin-top: -75px;
+}
+#our-team{
+    color: rgb(3, 2, 2);
+    font-weight: bolder;
+}
+#team-heading{
+    color: rgb(13, 64, 68);
+    font-size: 18px;
+    font-weight: 700;
 }
