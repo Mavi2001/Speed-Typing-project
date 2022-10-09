@@ -16,14 +16,6 @@ body{
 #ff{
     color: black;
 }
-
-
-
-
-
-
-
-
 .top-heading{
     font-size: larger;
     color: black;
@@ -85,3 +77,6 @@ body{
     font-size: 18px;
     font-weight: 700;
 }
+/* .text-gray-600{
+    margin-top: -40px;
+} */
