@@ -1,0 +1,62 @@
+.page{
+  background-image: url("mouse-beside-keyboard-yellow-color-yellow-background-top-view_37817-378.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 15px solid black;
+}
+.abc{
+    display: flex;
+}
+.abc{
+    background-image: url("sky\ blue.webp");
+}
+
+.efg{
+    background-image: url("grey\ color.jpg");
+}
+
+h1{
+    font-size: large;
+}
+#content{
+  font-size: 17px;
+  font-style: bold;
+}
+#container{
+  text-align: center;
+}
+ 
+  .navbar {
+	  overflow: hidden;
+	  width: fit-content;
+	  margin: auto;
+	}
+  .navbar a {
+	  float: left;
+	  color: black;
+	  text-align: center;
+	  padding: 15px 15px;
+	  text-decoration: none;
+	  font-size: 30px;
+	}
+  .navbar a:hover {
+    background-color:white;
+    color: black;
+  }
+  
+  /*.navbars a.active {
+    /* background-color: #04AA6D; */
+    /* color: white; */
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+  /* } */
+
+  img{
+  /* display: block; */
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  margin-top: 60px;
+  }
+  img{
+    border-radius: 50%;
+  }
