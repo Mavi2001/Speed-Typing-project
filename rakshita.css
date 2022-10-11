@@ -12,7 +12,17 @@ body{
     /* background-color: bisque; */
     /* opacity: 0.5; */
 }
-
+.logo{
+    width:20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo img{
+    width: 80px;
+    /* border: solid white; */
+    border-radius: 150px;
+}
 #ff{
     color: black;
 }
