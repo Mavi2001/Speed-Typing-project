@@ -1,5 +1,5 @@
 .page{
-  background-image: url("mouse-beside-keyboard-yellow-color-yellow-background-top-view_37817-378.webp");
+  background-image: url("./images/mouse-beside-keyboard-yellow-color-yellow-background-top-view_37817-378.webp");
   background-repeat: no-repeat;
   background-size: cover;
   border: 15px solid black;
@@ -8,11 +8,11 @@
     display: flex;
 }
 .abc{
-    background-image: url("sky\ blue.webp");
+    background-image: url("./images/sky\ blue.webp");
 }
 
 .efg{
-    background-image: url("grey\ color.jpg");
+    background-image: url("./images/grey\ color.jpg");
 }
 
 h1{
